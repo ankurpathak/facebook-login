@@ -1,12 +1,5 @@
 # Spring Session Concurrency Test
 Steps to reproduce are:
-* Run redis localhost at default port with config:
-
-```
-    config set notify-keyspace-events KEA
-    config get notify-keyspace-events
-```
-
 * Standard Spring Boot 2 Application with Maven, So run 
     class FacebookLoginApplication with main
     method(I was using Java 11 on my machine).
