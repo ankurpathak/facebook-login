@@ -8,11 +8,11 @@ Steps to reproduce are:
   to provider OAuth Providers credentials(Using maven resource
   filtering) in given template:
  ```
- google.client-id=Your Client Id
- google.client-secret=Your Client Secret
- facebook.client-id=Your Client Id
- facebook.client-secret=Your Client Secret
- linkedin.client-id=Your Client Id
- linkedin.client-secret=Your Client Secret
+     google.client-id=Your Client Id
+     google.client-secret=Your Client Secret
+     facebook.client-id=Your Client Id
+     facebook.client-secret=Your Client Secret
+     linkedin.client-id=Your Client Id
+     linkedin.client-secret=Your Client Secret
  ```
 
